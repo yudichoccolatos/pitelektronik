@@ -1,0 +1,920 @@
+2013/11/18 04:53:41 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "views/keluhan/_form".' in C:\xampp\htdocs\ujicoba\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\ujicoba\framework\web\CWebApplication.php(141): CWebApplication->runController('views/keluhan/_...')
+#1 C:\xampp\htdocs\ujicoba\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\ujicoba\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/ujicoba/index.php?r=views/keluhan/_form
+HTTP_REFERER=http://localhost/ujicoba/index.php?r=site/contact
+---
+2013/11/18 04:53:52 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "views/keluhan/_form".' in C:\xampp\htdocs\ujicoba\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\ujicoba\framework\web\CWebApplication.php(141): CWebApplication->runController('views/keluhan/_...')
+#1 C:\xampp\htdocs\ujicoba\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\ujicoba\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/ujicoba/index.php?r=views/keluhan/_form
+HTTP_REFERER=http://localhost/ujicoba/index.php?r=site/contact
+---
+2013/11/18 04:53:55 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "views/keluhan/_form.php".' in C:\xampp\htdocs\ujicoba\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\ujicoba\framework\web\CWebApplication.php(141): CWebApplication->runController('views/keluhan/_...')
+#1 C:\xampp\htdocs\ujicoba\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\ujicoba\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/ujicoba/index.php?r=views/keluhan/_form.php
+HTTP_REFERER=http://localhost/ujicoba/index.php?r=views/keluhan/_form
+---
+2013/11/18 04:54:43 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "views/keluhan/_form.php".' in C:\xampp\htdocs\ujicoba\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\ujicoba\framework\web\CWebApplication.php(141): CWebApplication->runController('views/keluhan/_...')
+#1 C:\xampp\htdocs\ujicoba\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\ujicoba\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/ujicoba/index.php?r=views/keluhan/_form.php
+HTTP_REFERER=http://localhost/ujicoba/index.php?r=keluhan/create
+---
+2013/11/18 04:54:48 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "views/keluhan/_form.php".' in C:\xampp\htdocs\ujicoba\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\ujicoba\framework\web\CWebApplication.php(141): CWebApplication->runController('views/keluhan/_...')
+#1 C:\xampp\htdocs\ujicoba\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\ujicoba\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/ujicoba/index.php?r=views/keluhan/_form.php
+HTTP_REFERER=http://localhost/ujicoba/index.php?r=keluhan/create
+---
+2013/11/18 04:54:50 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "views/keluhan/create".' in C:\xampp\htdocs\ujicoba\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\ujicoba\framework\web\CWebApplication.php(141): CWebApplication->runController('views/keluhan/c...')
+#1 C:\xampp\htdocs\ujicoba\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\ujicoba\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/ujicoba/index.php?r=views/keluhan/create
+HTTP_REFERER=http://localhost/ujicoba/index.php?r=views/keluhan/_form.php
+---
+2013/11/18 04:54:58 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "views/keluhan/create".' in C:\xampp\htdocs\ujicoba\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\ujicoba\framework\web\CWebApplication.php(141): CWebApplication->runController('views/keluhan/c...')
+#1 C:\xampp\htdocs\ujicoba\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\ujicoba\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/ujicoba/index.php?r=views/keluhan/create
+HTTP_REFERER=http://localhost/ujicoba/index.php?r=views/keluhan/create
+---
+2013/11/18 04:55:01 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "views/keluhan/create".' in C:\xampp\htdocs\ujicoba\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\ujicoba\framework\web\CWebApplication.php(141): CWebApplication->runController('views/keluhan/c...')
+#1 C:\xampp\htdocs\ujicoba\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\ujicoba\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/ujicoba/index.php?r=views/keluhan/create
+HTTP_REFERER=http://localhost/ujicoba/index.php?r=views/keluhan/create
+---
+2013/11/18 04:55:03 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "keluhan".' in C:\xampp\htdocs\ujicoba\framework\web\CController.php:483
+Stack trace:
+#0 C:\xampp\htdocs\ujicoba\framework\web\CController.php(270): CController->missingAction('keluhan')
+#1 C:\xampp\htdocs\ujicoba\framework\web\CWebApplication.php(282): CController->run('keluhan')
+#2 C:\xampp\htdocs\ujicoba\framework\web\CWebApplication.php(141): CWebApplication->runController('site/keluhan/cr...')
+#3 C:\xampp\htdocs\ujicoba\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#4 C:\xampp\htdocs\ujicoba\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/ujicoba/index.php?r=site/keluhan/create
+HTTP_REFERER=http://localhost/ujicoba/index.php?r=views/keluhan/create
+---
+2013/11/18 04:55:18 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "keluhan".' in C:\xampp\htdocs\ujicoba\framework\web\CController.php:483
+Stack trace:
+#0 C:\xampp\htdocs\ujicoba\framework\web\CController.php(270): CController->missingAction('keluhan')
+#1 C:\xampp\htdocs\ujicoba\framework\web\CWebApplication.php(282): CController->run('keluhan')
+#2 C:\xampp\htdocs\ujicoba\framework\web\CWebApplication.php(141): CWebApplication->runController('site/keluhan/cr...')
+#3 C:\xampp\htdocs\ujicoba\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#4 C:\xampp\htdocs\ujicoba\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/ujicoba/index.php?r=site/keluhan/create
+HTTP_REFERER=http://localhost/ujicoba/index.php?r=views/keluhan/create
+---
+2013/11/18 05:05:26 [error] [exception.CException] exception 'CException' with message 'Property "Keluhan.jamLapor" is not defined.' in C:\xampp\htdocs\ujicoba\framework\base\CComponent.php:130
+Stack trace:
+#0 C:\xampp\htdocs\ujicoba\framework\db\ar\CActiveRecord.php(145): CComponent->__get('jamLapor')
+#1 C:\xampp\htdocs\ujicoba\framework\web\helpers\CHtml.php(2529): CActiveRecord->__get('jamLapor')
+#2 C:\xampp\htdocs\ujicoba\framework\web\helpers\CHtml.php(2252): CHtml::resolveValue(Object(Keluhan), 'jamLapor')
+#3 C:\xampp\htdocs\ujicoba\framework\web\helpers\CHtml.php(1434): CHtml::activeInputField('text', Object(Keluhan), 'jamLapor', Array)
+#4 C:\xampp\htdocs\ujicoba\framework\web\widgets\CActiveForm.php(725): CHtml::activeTextField(Object(Keluhan), 'jamLapor', Array)
+#5 C:\xampp\htdocs\ujicoba\protected\views\keluhan\_search.php(36): CActiveForm->textField(Object(Keluhan), 'jamLapor')
+#6 C:\xampp\htdocs\ujicoba\framework\web\CBaseController.php(126): require('C:\xampp\htdocs...')
+#7 C:\xampp\htdocs\ujicoba\framework\web\CBaseController.php(95): CBaseController->renderInternal('C:\xampp\htdocs...', Array, true)
+#8 C:\xampp\htdocs\ujicoba\framework\web\CController.php(869): CBaseController->renderFile('C:\xampp\htdocs...', Array, true)
+#9 C:\xampp\htdocs\ujicoba\protected\views\keluhan\admin.php(40): CController->renderPartial('_search', Array)
+#10 C:\xampp\htdocs\ujicoba\framework\web\CBaseController.php(126): require('C:\xampp\htdocs...')
+#11 C:\xampp\htdocs\ujicoba\framework\web\CBaseController.php(95): CBaseController->renderInternal('C:\xampp\htdocs...', Array, true)
+#12 C:\xampp\htdocs\ujicoba\framework\web\CController.php(869): CBaseController->renderFile('C:\xampp\htdocs...', Array, true)
+#13 C:\xampp\htdocs\ujicoba\framework\web\CController.php(782): CController->renderPartial('admin', Array, true)
+#14 C:\xampp\htdocs\ujicoba\protected\controllers\KeluhanController.php(143): CController->render('admin', Array)
+#15 C:\xampp\htdocs\ujicoba\framework\web\actions\CInlineAction.php(49): KeluhanController->actionAdmin()
+#16 C:\xampp\htdocs\ujicoba\framework\web\CController.php(308): CInlineAction->runWithParams(Array)
+#17 C:\xampp\htdocs\ujicoba\framework\web\filters\CFilterChain.php(133): CController->runAction(Object(CInlineAction))
+#18 C:\xampp\htdocs\ujicoba\framework\web\filters\CFilter.php(40): CFilterChain->run()
+#19 C:\xampp\htdocs\ujicoba\framework\web\CController.php(1145): CFilter->filter(Object(CFilterChain))
+#20 C:\xampp\htdocs\ujicoba\framework\web\filters\CInlineFilter.php(58): CController->filterAccessControl(Object(CFilterChain))
+#21 C:\xampp\htdocs\ujicoba\framework\web\filters\CFilterChain.php(130): CInlineFilter->filter(Object(CFilterChain))
+#22 C:\xampp\htdocs\ujicoba\framework\web\CController.php(291): CFilterChain->run()
+#23 C:\xampp\htdocs\ujicoba\framework\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#24 C:\xampp\htdocs\ujicoba\framework\web\CWebApplication.php(282): CController->run('admin')
+#25 C:\xampp\htdocs\ujicoba\framework\web\CWebApplication.php(141): CWebApplication->runController('keluhan/admin')
+#26 C:\xampp\htdocs\ujicoba\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#27 C:\xampp\htdocs\ujicoba\index.php(13): CApplication->run()
+#28 {main}
+REQUEST_URI=/ujicoba/index.php?r=keluhan/admin
+HTTP_REFERER=http://localhost/ujicoba/index.php?r=keluhan/view&id=5
+---
+2013/11/18 05:05:36 [error] [exception.CException] exception 'CException' with message 'Property "Keluhan.jamLapor" is not defined.' in C:\xampp\htdocs\ujicoba\framework\base\CComponent.php:130
+Stack trace:
+#0 C:\xampp\htdocs\ujicoba\framework\db\ar\CActiveRecord.php(145): CComponent->__get('jamLapor')
+#1 C:\xampp\htdocs\ujicoba\protected\views\keluhan\_view.php(25): CActiveRecord->__get('jamLapor')
+#2 C:\xampp\htdocs\ujicoba\framework\web\CBaseController.php(130): require('C:\xampp\htdocs...')
+#3 C:\xampp\htdocs\ujicoba\framework\web\CBaseController.php(95): CBaseController->renderInternal('C:\xampp\htdocs...', Array, false)
+#4 C:\xampp\htdocs\ujicoba\framework\zii\widgets\CListView.php(291): CBaseController->renderFile('C:\xampp\htdocs...', Array)
+#5 C:\xampp\htdocs\ujicoba\framework\zii\widgets\CBaseListView.php(167): CListView->renderItems()
+#6 [internal function]: CBaseListView->renderSection(Array)
+#7 C:\xampp\htdocs\ujicoba\framework\zii\widgets\CBaseListView.php(150): preg_replace_callback('/{(\w+)}/', Array, '{summary}?{sort...')
+#8 C:\xampp\htdocs\ujicoba\framework\zii\widgets\CBaseListView.php(135): CBaseListView->renderContent()
+#9 C:\xampp\htdocs\ujicoba\framework\web\CBaseController.php(173): CBaseListView->run()
+#10 C:\xampp\htdocs\ujicoba\protected\views\keluhan\index.php(20): CBaseController->widget('zii.widgets.CLi...', Array)
+#11 C:\xampp\htdocs\ujicoba\framework\web\CBaseController.php(126): require('C:\xampp\htdocs...')
+#12 C:\xampp\htdocs\ujicoba\framework\web\CBaseController.php(95): CBaseController->renderInternal('C:\xampp\htdocs...', Array, true)
+#13 C:\xampp\htdocs\ujicoba\framework\web\CController.php(869): CBaseController->renderFile('C:\xampp\htdocs...', Array, true)
+#14 C:\xampp\htdocs\ujicoba\framework\web\CController.php(782): CController->renderPartial('index', Array, true)
+#15 C:\xampp\htdocs\ujicoba\protected\controllers\KeluhanController.php(128): CController->render('index', Array)
+#16 C:\xampp\htdocs\ujicoba\framework\web\actions\CInlineAction.php(49): KeluhanController->actionIndex()
+#17 C:\xampp\htdocs\ujicoba\framework\web\CController.php(308): CInlineAction->runWithParams(Array)
+#18 C:\xampp\htdocs\ujicoba\framework\web\filters\CFilterChain.php(133): CController->runAction(Object(CInlineAction))
+#19 C:\xampp\htdocs\ujicoba\framework\web\filters\CFilter.php(40): CFilterChain->run()
+#20 C:\xampp\htdocs\ujicoba\framework\web\CController.php(1145): CFilter->filter(Object(CFilterChain))
+#21 C:\xampp\htdocs\ujicoba\framework\web\filters\CInlineFilter.php(58): CController->filterAccessControl(Object(CFilterChain))
+#22 C:\xampp\htdocs\ujicoba\framework\web\filters\CFilterChain.php(130): CInlineFilter->filter(Object(CFilterChain))
+#23 C:\xampp\htdocs\ujicoba\framework\web\CController.php(291): CFilterChain->run()
+#24 C:\xampp\htdocs\ujicoba\framework\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#25 C:\xampp\htdocs\ujicoba\framework\web\CWebApplication.php(282): CController->run('index')
+#26 C:\xampp\htdocs\ujicoba\framework\web\CWebApplication.php(141): CWebApplication->runController('keluhan/index')
+#27 C:\xampp\htdocs\ujicoba\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#28 C:\xampp\htdocs\ujicoba\index.php(13): CApplication->run()
+#29 {main}
+REQUEST_URI=/ujicoba/index.php?r=keluhan/index
+HTTP_REFERER=http://localhost/ujicoba/index.php?r=keluhan/view&id=5
+---
+2013/11/18 05:06:25 [error] [exception.CException] exception 'CException' with message 'Property "Keluhan.jamLapor" is not defined.' in C:\xampp\htdocs\ujicoba\framework\base\CComponent.php:130
+Stack trace:
+#0 C:\xampp\htdocs\ujicoba\framework\db\ar\CActiveRecord.php(145): CComponent->__get('jamLapor')
+#1 C:\xampp\htdocs\ujicoba\protected\views\keluhan\_view.php(25): CActiveRecord->__get('jamLapor')
+#2 C:\xampp\htdocs\ujicoba\framework\web\CBaseController.php(130): require('C:\xampp\htdocs...')
+#3 C:\xampp\htdocs\ujicoba\framework\web\CBaseController.php(95): CBaseController->renderInternal('C:\xampp\htdocs...', Array, false)
+#4 C:\xampp\htdocs\ujicoba\framework\zii\widgets\CListView.php(291): CBaseController->renderFile('C:\xampp\htdocs...', Array)
+#5 C:\xampp\htdocs\ujicoba\framework\zii\widgets\CBaseListView.php(167): CListView->renderItems()
+#6 [internal function]: CBaseListView->renderSection(Array)
+#7 C:\xampp\htdocs\ujicoba\framework\zii\widgets\CBaseListView.php(150): preg_replace_callback('/{(\w+)}/', Array, '{summary}?{sort...')
+#8 C:\xampp\htdocs\ujicoba\framework\zii\widgets\CBaseListView.php(135): CBaseListView->renderContent()
+#9 C:\xampp\htdocs\ujicoba\framework\web\CBaseController.php(173): CBaseListView->run()
+#10 C:\xampp\htdocs\ujicoba\protected\views\keluhan\index.php(20): CBaseController->widget('zii.widgets.CLi...', Array)
+#11 C:\xampp\htdocs\ujicoba\framework\web\CBaseController.php(126): require('C:\xampp\htdocs...')
+#12 C:\xampp\htdocs\ujicoba\framework\web\CBaseController.php(95): CBaseController->renderInternal('C:\xampp\htdocs...', Array, true)
+#13 C:\xampp\htdocs\ujicoba\framework\web\CController.php(869): CBaseController->renderFile('C:\xampp\htdocs...', Array, true)
+#14 C:\xampp\htdocs\ujicoba\framework\web\CController.php(782): CController->renderPartial('index', Array, true)
+#15 C:\xampp\htdocs\ujicoba\protected\controllers\KeluhanController.php(128): CController->render('index', Array)
+#16 C:\xampp\htdocs\ujicoba\framework\web\actions\CInlineAction.php(49): KeluhanController->actionIndex()
+#17 C:\xampp\htdocs\ujicoba\framework\web\CController.php(308): CInlineAction->runWithParams(Array)
+#18 C:\xampp\htdocs\ujicoba\framework\web\filters\CFilterChain.php(133): CController->runAction(Object(CInlineAction))
+#19 C:\xampp\htdocs\ujicoba\framework\web\filters\CFilter.php(40): CFilterChain->run()
+#20 C:\xampp\htdocs\ujicoba\framework\web\CController.php(1145): CFilter->filter(Object(CFilterChain))
+#21 C:\xampp\htdocs\ujicoba\framework\web\filters\CInlineFilter.php(58): CController->filterAccessControl(Object(CFilterChain))
+#22 C:\xampp\htdocs\ujicoba\framework\web\filters\CFilterChain.php(130): CInlineFilter->filter(Object(CFilterChain))
+#23 C:\xampp\htdocs\ujicoba\framework\web\CController.php(291): CFilterChain->run()
+#24 C:\xampp\htdocs\ujicoba\framework\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#25 C:\xampp\htdocs\ujicoba\framework\web\CWebApplication.php(282): CController->run('index')
+#26 C:\xampp\htdocs\ujicoba\framework\web\CWebApplication.php(141): CWebApplication->runController('keluhan/index')
+#27 C:\xampp\htdocs\ujicoba\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#28 C:\xampp\htdocs\ujicoba\index.php(13): CApplication->run()
+#29 {main}
+REQUEST_URI=/ujicoba/index.php?r=keluhan/index
+HTTP_REFERER=http://localhost/ujicoba/index.php?r=keluhan/create
+---
+2013/11/18 05:07:21 [error] [exception.CException] exception 'CException' with message 'Property "Keluhan.jamLapor" is not defined.' in C:\xampp\htdocs\ujicoba\framework\base\CComponent.php:130
+Stack trace:
+#0 C:\xampp\htdocs\ujicoba\framework\db\ar\CActiveRecord.php(145): CComponent->__get('jamLapor')
+#1 C:\xampp\htdocs\ujicoba\framework\web\helpers\CHtml.php(2529): CActiveRecord->__get('jamLapor')
+#2 C:\xampp\htdocs\ujicoba\framework\web\helpers\CHtml.php(2252): CHtml::resolveValue(Object(Keluhan), 'jamLapor')
+#3 C:\xampp\htdocs\ujicoba\framework\web\helpers\CHtml.php(1434): CHtml::activeInputField('text', Object(Keluhan), 'jamLapor', Array)
+#4 C:\xampp\htdocs\ujicoba\framework\web\widgets\CActiveForm.php(725): CHtml::activeTextField(Object(Keluhan), 'jamLapor', Array)
+#5 C:\xampp\htdocs\ujicoba\protected\views\keluhan\_search.php(36): CActiveForm->textField(Object(Keluhan), 'jamLapor')
+#6 C:\xampp\htdocs\ujicoba\framework\web\CBaseController.php(126): require('C:\xampp\htdocs...')
+#7 C:\xampp\htdocs\ujicoba\framework\web\CBaseController.php(95): CBaseController->renderInternal('C:\xampp\htdocs...', Array, true)
+#8 C:\xampp\htdocs\ujicoba\framework\web\CController.php(869): CBaseController->renderFile('C:\xampp\htdocs...', Array, true)
+#9 C:\xampp\htdocs\ujicoba\protected\views\keluhan\admin.php(40): CController->renderPartial('_search', Array)
+#10 C:\xampp\htdocs\ujicoba\framework\web\CBaseController.php(126): require('C:\xampp\htdocs...')
+#11 C:\xampp\htdocs\ujicoba\framework\web\CBaseController.php(95): CBaseController->renderInternal('C:\xampp\htdocs...', Array, true)
+#12 C:\xampp\htdocs\ujicoba\framework\web\CController.php(869): CBaseController->renderFile('C:\xampp\htdocs...', Array, true)
+#13 C:\xampp\htdocs\ujicoba\framework\web\CController.php(782): CController->renderPartial('admin', Array, true)
+#14 C:\xampp\htdocs\ujicoba\protected\controllers\KeluhanController.php(143): CController->render('admin', Array)
+#15 C:\xampp\htdocs\ujicoba\framework\web\actions\CInlineAction.php(49): KeluhanController->actionAdmin()
+#16 C:\xampp\htdocs\ujicoba\framework\web\CController.php(308): CInlineAction->runWithParams(Array)
+#17 C:\xampp\htdocs\ujicoba\framework\web\filters\CFilterChain.php(133): CController->runAction(Object(CInlineAction))
+#18 C:\xampp\htdocs\ujicoba\framework\web\filters\CFilter.php(40): CFilterChain->run()
+#19 C:\xampp\htdocs\ujicoba\framework\web\CController.php(1145): CFilter->filter(Object(CFilterChain))
+#20 C:\xampp\htdocs\ujicoba\framework\web\filters\CInlineFilter.php(58): CController->filterAccessControl(Object(CFilterChain))
+#21 C:\xampp\htdocs\ujicoba\framework\web\filters\CFilterChain.php(130): CInlineFilter->filter(Object(CFilterChain))
+#22 C:\xampp\htdocs\ujicoba\framework\web\CController.php(291): CFilterChain->run()
+#23 C:\xampp\htdocs\ujicoba\framework\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#24 C:\xampp\htdocs\ujicoba\framework\web\CWebApplication.php(282): CController->run('admin')
+#25 C:\xampp\htdocs\ujicoba\framework\web\CWebApplication.php(141): CWebApplication->runController('keluhan/admin')
+#26 C:\xampp\htdocs\ujicoba\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#27 C:\xampp\htdocs\ujicoba\index.php(13): CApplication->run()
+#28 {main}
+REQUEST_URI=/ujicoba/index.php?r=keluhan/admin
+HTTP_REFERER=http://localhost/ujicoba/index.php?r=keluhan/index
+---
+2013/11/18 07:42:57 [error] [exception.CException] exception 'CException' with message 'Property "CDefaultValueValidator.0" is not defined.' in C:\xampp\htdocs\ujicoba\framework\base\CComponent.php:173
+Stack trace:
+#0 C:\xampp\htdocs\ujicoba\framework\validators\CValidator.php(189): CComponent->__set('0', 'baik')
+#1 C:\xampp\htdocs\ujicoba\framework\base\CModel.php(287): CValidator::createValidator('default', Object(Barang), 'kondisi', Array)
+#2 C:\xampp\htdocs\ujicoba\framework\base\CModel.php(260): CModel->createValidators()
+#3 C:\xampp\htdocs\ujicoba\framework\web\helpers\CHtml.php(2236): CModel->getValidators('kodeBarang')
+#4 C:\xampp\htdocs\ujicoba\framework\web\helpers\CHtml.php(1434): CHtml::activeInputField('text', Object(Barang), 'kodeBarang', Array)
+#5 C:\xampp\htdocs\ujicoba\framework\web\widgets\CActiveForm.php(725): CHtml::activeTextField(Object(Barang), 'kodeBarang', Array)
+#6 C:\xampp\htdocs\ujicoba\protected\views\barang\_search.php(16): CActiveForm->textField(Object(Barang), 'kodeBarang')
+#7 C:\xampp\htdocs\ujicoba\framework\web\CBaseController.php(126): require('C:\xampp\htdocs...')
+#8 C:\xampp\htdocs\ujicoba\framework\web\CBaseController.php(95): CBaseController->renderInternal('C:\xampp\htdocs...', Array, true)
+#9 C:\xampp\htdocs\ujicoba\framework\web\CController.php(869): CBaseController->renderFile('C:\xampp\htdocs...', Array, true)
+#10 C:\xampp\htdocs\ujicoba\protected\views\barang\admin.php(40): CController->renderPartial('_search', Array)
+#11 C:\xampp\htdocs\ujicoba\framework\web\CBaseController.php(126): require('C:\xampp\htdocs...')
+#12 C:\xampp\htdocs\ujicoba\framework\web\CBaseController.php(95): CBaseController->renderInternal('C:\xampp\htdocs...', Array, true)
+#13 C:\xampp\htdocs\ujicoba\framework\web\CController.php(869): CBaseController->renderFile('C:\xampp\htdocs...', Array, true)
+#14 C:\xampp\htdocs\ujicoba\framework\web\CController.php(782): CController->renderPartial('admin', Array, true)
+#15 C:\xampp\htdocs\ujicoba\protected\controllers\BarangController.php(143): CController->render('admin', Array)
+#16 C:\xampp\htdocs\ujicoba\framework\web\actions\CInlineAction.php(49): BarangController->actionAdmin()
+#17 C:\xampp\htdocs\ujicoba\framework\web\CController.php(308): CInlineAction->runWithParams(Array)
+#18 C:\xampp\htdocs\ujicoba\framework\web\filters\CFilterChain.php(133): CController->runAction(Object(CInlineAction))
+#19 C:\xampp\htdocs\ujicoba\framework\web\filters\CFilter.php(40): CFilterChain->run()
+#20 C:\xampp\htdocs\ujicoba\framework\web\CController.php(1145): CFilter->filter(Object(CFilterChain))
+#21 C:\xampp\htdocs\ujicoba\framework\web\filters\CInlineFilter.php(58): CController->filterAccessControl(Object(CFilterChain))
+#22 C:\xampp\htdocs\ujicoba\framework\web\filters\CFilterChain.php(130): CInlineFilter->filter(Object(CFilterChain))
+#23 C:\xampp\htdocs\ujicoba\framework\web\CController.php(291): CFilterChain->run()
+#24 C:\xampp\htdocs\ujicoba\framework\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#25 C:\xampp\htdocs\ujicoba\framework\web\CWebApplication.php(282): CController->run('admin')
+#26 C:\xampp\htdocs\ujicoba\framework\web\CWebApplication.php(141): CWebApplication->runController('barang/admin')
+#27 C:\xampp\htdocs\ujicoba\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#28 C:\xampp\htdocs\ujicoba\index.php(13): CApplication->run()
+#29 {main}
+REQUEST_URI=/ujicoba/index.php?r=barang/admin
+HTTP_REFERER=http://localhost/ujicoba/index.php?r=keluhan/admin
+---
+2013/11/18 09:33:10 [error] [php] Missing argument 3 for CHtml::dropDownList(), called in C:\xampp\htdocs\ujicoba\protected\views\barang\_form.php on line 36 and defined (C:\xampp\htdocs\ujicoba\framework\web\helpers\CHtml.php:915)
+Stack trace:
+#0 C:\xampp\htdocs\ujicoba\framework\web\CBaseController.php(95): BarangController->renderInternal()
+#1 C:\xampp\htdocs\ujicoba\framework\web\CController.php(869): BarangController->renderFile()
+#2 C:\xampp\htdocs\ujicoba\protected\views\barang\create.php(18): BarangController->renderPartial()
+#3 C:\xampp\htdocs\ujicoba\framework\web\CBaseController.php(126): require()
+#4 C:\xampp\htdocs\ujicoba\framework\web\CBaseController.php(95): BarangController->renderInternal()
+#5 C:\xampp\htdocs\ujicoba\framework\web\CController.php(869): BarangController->renderFile()
+#6 C:\xampp\htdocs\ujicoba\framework\web\CController.php(782): BarangController->renderPartial()
+#7 C:\xampp\htdocs\ujicoba\protected\controllers\BarangController.php(79): BarangController->render()
+#8 C:\xampp\htdocs\ujicoba\framework\web\actions\CInlineAction.php(49): BarangController->actionCreate()
+#9 C:\xampp\htdocs\ujicoba\framework\web\CController.php(308): CInlineAction->runWithParams()
+#10 C:\xampp\htdocs\ujicoba\framework\web\filters\CFilterChain.php(133): BarangController->runAction()
+#11 C:\xampp\htdocs\ujicoba\framework\web\filters\CFilter.php(40): CFilterChain->run()
+#12 C:\xampp\htdocs\ujicoba\framework\web\CController.php(1145): CAccessControlFilter->filter()
+#13 C:\xampp\htdocs\ujicoba\framework\web\filters\CInlineFilter.php(58): BarangController->filterAccessControl()
+#14 C:\xampp\htdocs\ujicoba\framework\web\filters\CFilterChain.php(130): CInlineFilter->filter()
+#15 C:\xampp\htdocs\ujicoba\framework\web\CController.php(291): CFilterChain->run()
+#16 C:\xampp\htdocs\ujicoba\framework\web\CController.php(265): BarangController->runActionWithFilters()
+#17 C:\xampp\htdocs\ujicoba\framework\web\CWebApplication.php(282): BarangController->run()
+#18 C:\xampp\htdocs\ujicoba\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#19 C:\xampp\htdocs\ujicoba\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#20 C:\xampp\htdocs\ujicoba\index.php(13): CWebApplication->run()
+REQUEST_URI=/ujicoba/index.php?r=barang/create
+in C:\xampp\htdocs\ujicoba\protected\views\barang\_form.php (36)
+in C:\xampp\htdocs\ujicoba\protected\views\barang\create.php (18)
+in C:\xampp\htdocs\ujicoba\protected\controllers\BarangController.php (79)
+2013/11/18 09:36:07 [error] [php] include(1.php): failed to open stream: No such file or directory (C:\xampp\htdocs\ujicoba\framework\YiiBase.php:427)
+Stack trace:
+#0 C:\xampp\htdocs\ujicoba\framework\validators\CValidator.php(186): import()
+#1 C:\xampp\htdocs\ujicoba\framework\base\CModel.php(287): createValidator()
+#2 C:\xampp\htdocs\ujicoba\framework\base\CModel.php(260): Barang->createValidators()
+#3 C:\xampp\htdocs\ujicoba\framework\base\CModel.php(547): Barang->getValidators()
+#4 C:\xampp\htdocs\ujicoba\framework\base\CModel.php(468): Barang->getSafeAttributeNames()
+#5 C:\xampp\htdocs\ujicoba\framework\base\CComponent.php(152): Barang->setAttributes()
+#6 C:\xampp\htdocs\ujicoba\framework\db\ar\CActiveRecord.php(161): Barang->__set()
+#7 C:\xampp\htdocs\ujicoba\protected\controllers\BarangController.php(72): Barang->__set()
+#8 C:\xampp\htdocs\ujicoba\framework\web\actions\CInlineAction.php(49): BarangController->actionCreate()
+#9 C:\xampp\htdocs\ujicoba\framework\web\CController.php(308): CInlineAction->runWithParams()
+#10 C:\xampp\htdocs\ujicoba\framework\web\filters\CFilterChain.php(133): BarangController->runAction()
+#11 C:\xampp\htdocs\ujicoba\framework\web\filters\CFilter.php(40): CFilterChain->run()
+#12 C:\xampp\htdocs\ujicoba\framework\web\CController.php(1145): CAccessControlFilter->filter()
+#13 C:\xampp\htdocs\ujicoba\framework\web\filters\CInlineFilter.php(58): BarangController->filterAccessControl()
+#14 C:\xampp\htdocs\ujicoba\framework\web\filters\CFilterChain.php(130): CInlineFilter->filter()
+#15 C:\xampp\htdocs\ujicoba\framework\web\CController.php(291): CFilterChain->run()
+#16 C:\xampp\htdocs\ujicoba\framework\web\CController.php(265): BarangController->runActionWithFilters()
+#17 C:\xampp\htdocs\ujicoba\framework\web\CWebApplication.php(282): BarangController->run()
+#18 C:\xampp\htdocs\ujicoba\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#19 C:\xampp\htdocs\ujicoba\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#20 C:\xampp\htdocs\ujicoba\index.php(13): CWebApplication->run()
+REQUEST_URI=/ujicoba/index.php?r=barang/create
+in C:\xampp\htdocs\ujicoba\protected\controllers\BarangController.php (72)
+in C:\xampp\htdocs\ujicoba\index.php (13)
+2013/11/18 09:37:22 [error] [php] include(1,2,3,4.php): failed to open stream: No such file or directory (C:\xampp\htdocs\ujicoba\framework\YiiBase.php:427)
+Stack trace:
+#0 C:\xampp\htdocs\ujicoba\framework\validators\CValidator.php(186): import()
+#1 C:\xampp\htdocs\ujicoba\framework\base\CModel.php(287): createValidator()
+#2 C:\xampp\htdocs\ujicoba\framework\base\CModel.php(260): Barang->createValidators()
+#3 C:\xampp\htdocs\ujicoba\framework\base\CModel.php(547): Barang->getValidators()
+#4 C:\xampp\htdocs\ujicoba\framework\base\CModel.php(468): Barang->getSafeAttributeNames()
+#5 C:\xampp\htdocs\ujicoba\framework\base\CComponent.php(152): Barang->setAttributes()
+#6 C:\xampp\htdocs\ujicoba\framework\db\ar\CActiveRecord.php(161): Barang->__set()
+#7 C:\xampp\htdocs\ujicoba\protected\controllers\BarangController.php(72): Barang->__set()
+#8 C:\xampp\htdocs\ujicoba\framework\web\actions\CInlineAction.php(49): BarangController->actionCreate()
+#9 C:\xampp\htdocs\ujicoba\framework\web\CController.php(308): CInlineAction->runWithParams()
+#10 C:\xampp\htdocs\ujicoba\framework\web\filters\CFilterChain.php(133): BarangController->runAction()
+#11 C:\xampp\htdocs\ujicoba\framework\web\filters\CFilter.php(40): CFilterChain->run()
+#12 C:\xampp\htdocs\ujicoba\framework\web\CController.php(1145): CAccessControlFilter->filter()
+#13 C:\xampp\htdocs\ujicoba\framework\web\filters\CInlineFilter.php(58): BarangController->filterAccessControl()
+#14 C:\xampp\htdocs\ujicoba\framework\web\filters\CFilterChain.php(130): CInlineFilter->filter()
+#15 C:\xampp\htdocs\ujicoba\framework\web\CController.php(291): CFilterChain->run()
+#16 C:\xampp\htdocs\ujicoba\framework\web\CController.php(265): BarangController->runActionWithFilters()
+#17 C:\xampp\htdocs\ujicoba\framework\web\CWebApplication.php(282): BarangController->run()
+#18 C:\xampp\htdocs\ujicoba\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#19 C:\xampp\htdocs\ujicoba\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#20 C:\xampp\htdocs\ujicoba\index.php(13): CWebApplication->run()
+REQUEST_URI=/ujicoba/index.php?r=barang/create
+in C:\xampp\htdocs\ujicoba\protected\controllers\BarangController.php (72)
+in C:\xampp\htdocs\ujicoba\index.php (13)
+2013/11/18 09:37:35 [error] [php] include(1,2,3,4.php): failed to open stream: No such file or directory (C:\xampp\htdocs\ujicoba\framework\YiiBase.php:427)
+Stack trace:
+#0 C:\xampp\htdocs\ujicoba\framework\validators\CValidator.php(186): import()
+#1 C:\xampp\htdocs\ujicoba\framework\base\CModel.php(287): createValidator()
+#2 C:\xampp\htdocs\ujicoba\framework\base\CModel.php(260): Barang->createValidators()
+#3 C:\xampp\htdocs\ujicoba\framework\web\helpers\CHtml.php(2236): Barang->getValidators()
+#4 C:\xampp\htdocs\ujicoba\framework\web\helpers\CHtml.php(1434): activeInputField()
+#5 C:\xampp\htdocs\ujicoba\framework\web\widgets\CActiveForm.php(725): activeTextField()
+#6 C:\xampp\htdocs\ujicoba\protected\views\barang\_search.php(16): CActiveForm->textField()
+#7 C:\xampp\htdocs\ujicoba\framework\web\CBaseController.php(126): require()
+#8 C:\xampp\htdocs\ujicoba\framework\web\CBaseController.php(95): BarangController->renderInternal()
+#9 C:\xampp\htdocs\ujicoba\framework\web\CController.php(869): BarangController->renderFile()
+#10 C:\xampp\htdocs\ujicoba\protected\views\barang\admin.php(40): BarangController->renderPartial()
+#11 C:\xampp\htdocs\ujicoba\framework\web\CBaseController.php(126): require()
+#12 C:\xampp\htdocs\ujicoba\framework\web\CBaseController.php(95): BarangController->renderInternal()
+#13 C:\xampp\htdocs\ujicoba\framework\web\CController.php(869): BarangController->renderFile()
+#14 C:\xampp\htdocs\ujicoba\framework\web\CController.php(782): BarangController->renderPartial()
+#15 C:\xampp\htdocs\ujicoba\protected\controllers\BarangController.php(143): BarangController->render()
+#16 C:\xampp\htdocs\ujicoba\framework\web\actions\CInlineAction.php(49): BarangController->actionAdmin()
+#17 C:\xampp\htdocs\ujicoba\framework\web\CController.php(308): CInlineAction->runWithParams()
+#18 C:\xampp\htdocs\ujicoba\framework\web\filters\CFilterChain.php(133): BarangController->runAction()
+#19 C:\xampp\htdocs\ujicoba\framework\web\filters\CFilter.php(40): CFilterChain->run()
+#20 C:\xampp\htdocs\ujicoba\framework\web\CController.php(1145): CAccessControlFilter->filter()
+#21 C:\xampp\htdocs\ujicoba\framework\web\filters\CInlineFilter.php(58): BarangController->filterAccessControl()
+#22 C:\xampp\htdocs\ujicoba\framework\web\filters\CFilterChain.php(130): CInlineFilter->filter()
+#23 C:\xampp\htdocs\ujicoba\framework\web\CController.php(291): CFilterChain->run()
+#24 C:\xampp\htdocs\ujicoba\framework\web\CController.php(265): BarangController->runActionWithFilters()
+#25 C:\xampp\htdocs\ujicoba\framework\web\CWebApplication.php(282): BarangController->run()
+#26 C:\xampp\htdocs\ujicoba\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#27 C:\xampp\htdocs\ujicoba\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#28 C:\xampp\htdocs\ujicoba\index.php(13): CWebApplication->run()
+REQUEST_URI=/ujicoba/index.php?r=barang/admin
+in C:\xampp\htdocs\ujicoba\protected\views\barang\_search.php (16)
+in C:\xampp\htdocs\ujicoba\protected\views\barang\admin.php (40)
+in C:\xampp\htdocs\ujicoba\protected\controllers\BarangController.php (143)
+2013/11/18 09:40:13 [error] [php] include(merah.php): failed to open stream: No such file or directory (C:\xampp\htdocs\ujicoba\framework\YiiBase.php:427)
+Stack trace:
+#0 C:\xampp\htdocs\ujicoba\framework\validators\CValidator.php(186): import()
+#1 C:\xampp\htdocs\ujicoba\framework\base\CModel.php(287): createValidator()
+#2 C:\xampp\htdocs\ujicoba\framework\base\CModel.php(260): Barang->createValidators()
+#3 C:\xampp\htdocs\ujicoba\framework\web\helpers\CHtml.php(2236): Barang->getValidators()
+#4 C:\xampp\htdocs\ujicoba\framework\web\helpers\CHtml.php(1434): activeInputField()
+#5 C:\xampp\htdocs\ujicoba\framework\web\widgets\CActiveForm.php(725): activeTextField()
+#6 C:\xampp\htdocs\ujicoba\protected\views\barang\_search.php(16): CActiveForm->textField()
+#7 C:\xampp\htdocs\ujicoba\framework\web\CBaseController.php(126): require()
+#8 C:\xampp\htdocs\ujicoba\framework\web\CBaseController.php(95): BarangController->renderInternal()
+#9 C:\xampp\htdocs\ujicoba\framework\web\CController.php(869): BarangController->renderFile()
+#10 C:\xampp\htdocs\ujicoba\protected\views\barang\admin.php(40): BarangController->renderPartial()
+#11 C:\xampp\htdocs\ujicoba\framework\web\CBaseController.php(126): require()
+#12 C:\xampp\htdocs\ujicoba\framework\web\CBaseController.php(95): BarangController->renderInternal()
+#13 C:\xampp\htdocs\ujicoba\framework\web\CController.php(869): BarangController->renderFile()
+#14 C:\xampp\htdocs\ujicoba\framework\web\CController.php(782): BarangController->renderPartial()
+#15 C:\xampp\htdocs\ujicoba\protected\controllers\BarangController.php(143): BarangController->render()
+#16 C:\xampp\htdocs\ujicoba\framework\web\actions\CInlineAction.php(49): BarangController->actionAdmin()
+#17 C:\xampp\htdocs\ujicoba\framework\web\CController.php(308): CInlineAction->runWithParams()
+#18 C:\xampp\htdocs\ujicoba\framework\web\filters\CFilterChain.php(133): BarangController->runAction()
+#19 C:\xampp\htdocs\ujicoba\framework\web\filters\CFilter.php(40): CFilterChain->run()
+#20 C:\xampp\htdocs\ujicoba\framework\web\CController.php(1145): CAccessControlFilter->filter()
+#21 C:\xampp\htdocs\ujicoba\framework\web\filters\CInlineFilter.php(58): BarangController->filterAccessControl()
+#22 C:\xampp\htdocs\ujicoba\framework\web\filters\CFilterChain.php(130): CInlineFilter->filter()
+#23 C:\xampp\htdocs\ujicoba\framework\web\CController.php(291): CFilterChain->run()
+#24 C:\xampp\htdocs\ujicoba\framework\web\CController.php(265): BarangController->runActionWithFilters()
+#25 C:\xampp\htdocs\ujicoba\framework\web\CWebApplication.php(282): BarangController->run()
+#26 C:\xampp\htdocs\ujicoba\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#27 C:\xampp\htdocs\ujicoba\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#28 C:\xampp\htdocs\ujicoba\index.php(13): CWebApplication->run()
+REQUEST_URI=/ujicoba/index.php?r=barang/admin
+in C:\xampp\htdocs\ujicoba\protected\views\barang\_search.php (16)
+in C:\xampp\htdocs\ujicoba\protected\views\barang\admin.php (40)
+in C:\xampp\htdocs\ujicoba\protected\controllers\BarangController.php (143)
+2013/11/18 09:40:36 [error] [php] include(merah.php): failed to open stream: No such file or directory (C:\xampp\htdocs\ujicoba\framework\YiiBase.php:427)
+Stack trace:
+#0 C:\xampp\htdocs\ujicoba\framework\validators\CValidator.php(186): import()
+#1 C:\xampp\htdocs\ujicoba\framework\base\CModel.php(287): createValidator()
+#2 C:\xampp\htdocs\ujicoba\framework\base\CModel.php(260): Barang->createValidators()
+#3 C:\xampp\htdocs\ujicoba\framework\web\helpers\CHtml.php(2236): Barang->getValidators()
+#4 C:\xampp\htdocs\ujicoba\framework\web\helpers\CHtml.php(1434): activeInputField()
+#5 C:\xampp\htdocs\ujicoba\framework\web\widgets\CActiveForm.php(725): activeTextField()
+#6 C:\xampp\htdocs\ujicoba\protected\views\barang\_search.php(16): CActiveForm->textField()
+#7 C:\xampp\htdocs\ujicoba\framework\web\CBaseController.php(126): require()
+#8 C:\xampp\htdocs\ujicoba\framework\web\CBaseController.php(95): BarangController->renderInternal()
+#9 C:\xampp\htdocs\ujicoba\framework\web\CController.php(869): BarangController->renderFile()
+#10 C:\xampp\htdocs\ujicoba\protected\views\barang\admin.php(40): BarangController->renderPartial()
+#11 C:\xampp\htdocs\ujicoba\framework\web\CBaseController.php(126): require()
+#12 C:\xampp\htdocs\ujicoba\framework\web\CBaseController.php(95): BarangController->renderInternal()
+#13 C:\xampp\htdocs\ujicoba\framework\web\CController.php(869): BarangController->renderFile()
+#14 C:\xampp\htdocs\ujicoba\framework\web\CController.php(782): BarangController->renderPartial()
+#15 C:\xampp\htdocs\ujicoba\protected\controllers\BarangController.php(143): BarangController->render()
+#16 C:\xampp\htdocs\ujicoba\framework\web\actions\CInlineAction.php(49): BarangController->actionAdmin()
+#17 C:\xampp\htdocs\ujicoba\framework\web\CController.php(308): CInlineAction->runWithParams()
+#18 C:\xampp\htdocs\ujicoba\framework\web\filters\CFilterChain.php(133): BarangController->runAction()
+#19 C:\xampp\htdocs\ujicoba\framework\web\filters\CFilter.php(40): CFilterChain->run()
+#20 C:\xampp\htdocs\ujicoba\framework\web\CController.php(1145): CAccessControlFilter->filter()
+#21 C:\xampp\htdocs\ujicoba\framework\web\filters\CInlineFilter.php(58): BarangController->filterAccessControl()
+#22 C:\xampp\htdocs\ujicoba\framework\web\filters\CFilterChain.php(130): CInlineFilter->filter()
+#23 C:\xampp\htdocs\ujicoba\framework\web\CController.php(291): CFilterChain->run()
+#24 C:\xampp\htdocs\ujicoba\framework\web\CController.php(265): BarangController->runActionWithFilters()
+#25 C:\xampp\htdocs\ujicoba\framework\web\CWebApplication.php(282): BarangController->run()
+#26 C:\xampp\htdocs\ujicoba\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#27 C:\xampp\htdocs\ujicoba\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#28 C:\xampp\htdocs\ujicoba\index.php(13): CWebApplication->run()
+REQUEST_URI=/ujicoba/index.php?r=barang/admin
+in C:\xampp\htdocs\ujicoba\protected\views\barang\_search.php (16)
+in C:\xampp\htdocs\ujicoba\protected\views\barang\admin.php (40)
+in C:\xampp\htdocs\ujicoba\protected\controllers\BarangController.php (143)
+2013/11/19 03:13:04 [error] [php] Missing argument 3 for CActiveForm::listBox(), called in C:\xampp\htdocs\ujicoba\protected\views\barang\_form.php on line 36 and defined (C:\xampp\htdocs\ujicoba\framework\web\widgets\CActiveForm.php:861)
+Stack trace:
+#0 C:\xampp\htdocs\ujicoba\framework\web\CBaseController.php(95): BarangController->renderInternal()
+#1 C:\xampp\htdocs\ujicoba\framework\web\CController.php(869): BarangController->renderFile()
+#2 C:\xampp\htdocs\ujicoba\protected\views\barang\create.php(18): BarangController->renderPartial()
+#3 C:\xampp\htdocs\ujicoba\framework\web\CBaseController.php(126): require()
+#4 C:\xampp\htdocs\ujicoba\framework\web\CBaseController.php(95): BarangController->renderInternal()
+#5 C:\xampp\htdocs\ujicoba\framework\web\CController.php(869): BarangController->renderFile()
+#6 C:\xampp\htdocs\ujicoba\framework\web\CController.php(782): BarangController->renderPartial()
+#7 C:\xampp\htdocs\ujicoba\protected\controllers\BarangController.php(79): BarangController->render()
+#8 C:\xampp\htdocs\ujicoba\framework\web\actions\CInlineAction.php(49): BarangController->actionCreate()
+#9 C:\xampp\htdocs\ujicoba\framework\web\CController.php(308): CInlineAction->runWithParams()
+#10 C:\xampp\htdocs\ujicoba\framework\web\filters\CFilterChain.php(133): BarangController->runAction()
+#11 C:\xampp\htdocs\ujicoba\framework\web\filters\CFilter.php(40): CFilterChain->run()
+#12 C:\xampp\htdocs\ujicoba\framework\web\CController.php(1145): CAccessControlFilter->filter()
+#13 C:\xampp\htdocs\ujicoba\framework\web\filters\CInlineFilter.php(58): BarangController->filterAccessControl()
+#14 C:\xampp\htdocs\ujicoba\framework\web\filters\CFilterChain.php(130): CInlineFilter->filter()
+#15 C:\xampp\htdocs\ujicoba\framework\web\CController.php(291): CFilterChain->run()
+#16 C:\xampp\htdocs\ujicoba\framework\web\CController.php(265): BarangController->runActionWithFilters()
+#17 C:\xampp\htdocs\ujicoba\framework\web\CWebApplication.php(282): BarangController->run()
+#18 C:\xampp\htdocs\ujicoba\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#19 C:\xampp\htdocs\ujicoba\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#20 C:\xampp\htdocs\ujicoba\index.php(13): CWebApplication->run()
+REQUEST_URI=/ujicoba/index.php?r=barang/create
+in C:\xampp\htdocs\ujicoba\protected\views\barang\_form.php (36)
+in C:\xampp\htdocs\ujicoba\protected\views\barang\create.php (18)
+in C:\xampp\htdocs\ujicoba\protected\controllers\BarangController.php (79)
+2013/11/19 06:19:18 [error] [php] Missing argument 3 for CActiveForm::listBox(), called in C:\xampp\htdocs\ujicoba\protected\views\barang\_form.php on line 36 and defined (C:\xampp\htdocs\ujicoba\framework\web\widgets\CActiveForm.php:861)
+Stack trace:
+#0 C:\xampp\htdocs\ujicoba\framework\web\CBaseController.php(95): BarangController->renderInternal()
+#1 C:\xampp\htdocs\ujicoba\framework\web\CController.php(869): BarangController->renderFile()
+#2 C:\xampp\htdocs\ujicoba\protected\views\barang\create.php(18): BarangController->renderPartial()
+#3 C:\xampp\htdocs\ujicoba\framework\web\CBaseController.php(126): require()
+#4 C:\xampp\htdocs\ujicoba\framework\web\CBaseController.php(95): BarangController->renderInternal()
+#5 C:\xampp\htdocs\ujicoba\framework\web\CController.php(869): BarangController->renderFile()
+#6 C:\xampp\htdocs\ujicoba\framework\web\CController.php(782): BarangController->renderPartial()
+#7 C:\xampp\htdocs\ujicoba\protected\controllers\BarangController.php(79): BarangController->render()
+#8 C:\xampp\htdocs\ujicoba\framework\web\actions\CInlineAction.php(49): BarangController->actionCreate()
+#9 C:\xampp\htdocs\ujicoba\framework\web\CController.php(308): CInlineAction->runWithParams()
+#10 C:\xampp\htdocs\ujicoba\framework\web\filters\CFilterChain.php(133): BarangController->runAction()
+#11 C:\xampp\htdocs\ujicoba\framework\web\filters\CFilter.php(40): CFilterChain->run()
+#12 C:\xampp\htdocs\ujicoba\framework\web\CController.php(1145): CAccessControlFilter->filter()
+#13 C:\xampp\htdocs\ujicoba\framework\web\filters\CInlineFilter.php(58): BarangController->filterAccessControl()
+#14 C:\xampp\htdocs\ujicoba\framework\web\filters\CFilterChain.php(130): CInlineFilter->filter()
+#15 C:\xampp\htdocs\ujicoba\framework\web\CController.php(291): CFilterChain->run()
+#16 C:\xampp\htdocs\ujicoba\framework\web\CController.php(265): BarangController->runActionWithFilters()
+#17 C:\xampp\htdocs\ujicoba\framework\web\CWebApplication.php(282): BarangController->run()
+#18 C:\xampp\htdocs\ujicoba\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#19 C:\xampp\htdocs\ujicoba\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#20 C:\xampp\htdocs\ujicoba\index.php(13): CWebApplication->run()
+REQUEST_URI=/ujicoba/index.php?r=barang/create
+in C:\xampp\htdocs\ujicoba\protected\views\barang\_form.php (36)
+in C:\xampp\htdocs\ujicoba\protected\views\barang\create.php (18)
+in C:\xampp\htdocs\ujicoba\protected\controllers\BarangController.php (79)
+2013/11/19 06:22:10 [error] [php] include(Warna.php): failed to open stream: No such file or directory (C:\xampp\htdocs\ujicoba\framework\YiiBase.php:427)
+Stack trace:
+#0 C:\xampp\htdocs\ujicoba\protected\views\barang\_form.php(36): spl_autoload_call()
+#1 C:\xampp\htdocs\ujicoba\framework\web\CBaseController.php(126): require()
+#2 C:\xampp\htdocs\ujicoba\framework\web\CBaseController.php(95): BarangController->renderInternal()
+#3 C:\xampp\htdocs\ujicoba\framework\web\CController.php(869): BarangController->renderFile()
+#4 C:\xampp\htdocs\ujicoba\protected\views\barang\create.php(18): BarangController->renderPartial()
+#5 C:\xampp\htdocs\ujicoba\framework\web\CBaseController.php(126): require()
+#6 C:\xampp\htdocs\ujicoba\framework\web\CBaseController.php(95): BarangController->renderInternal()
+#7 C:\xampp\htdocs\ujicoba\framework\web\CController.php(869): BarangController->renderFile()
+#8 C:\xampp\htdocs\ujicoba\framework\web\CController.php(782): BarangController->renderPartial()
+#9 C:\xampp\htdocs\ujicoba\protected\controllers\BarangController.php(79): BarangController->render()
+#10 C:\xampp\htdocs\ujicoba\framework\web\actions\CInlineAction.php(49): BarangController->actionCreate()
+#11 C:\xampp\htdocs\ujicoba\framework\web\CController.php(308): CInlineAction->runWithParams()
+#12 C:\xampp\htdocs\ujicoba\framework\web\filters\CFilterChain.php(133): BarangController->runAction()
+#13 C:\xampp\htdocs\ujicoba\framework\web\filters\CFilter.php(40): CFilterChain->run()
+#14 C:\xampp\htdocs\ujicoba\framework\web\CController.php(1145): CAccessControlFilter->filter()
+#15 C:\xampp\htdocs\ujicoba\framework\web\filters\CInlineFilter.php(58): BarangController->filterAccessControl()
+#16 C:\xampp\htdocs\ujicoba\framework\web\filters\CFilterChain.php(130): CInlineFilter->filter()
+#17 C:\xampp\htdocs\ujicoba\framework\web\CController.php(291): CFilterChain->run()
+#18 C:\xampp\htdocs\ujicoba\framework\web\CController.php(265): BarangController->runActionWithFilters()
+#19 C:\xampp\htdocs\ujicoba\framework\web\CWebApplication.php(282): BarangController->run()
+#20 C:\xampp\htdocs\ujicoba\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#21 C:\xampp\htdocs\ujicoba\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#22 C:\xampp\htdocs\ujicoba\index.php(13): CWebApplication->run()
+REQUEST_URI=/ujicoba/index.php?r=barang/create
+in C:\xampp\htdocs\ujicoba\protected\views\barang\_form.php (36)
+in C:\xampp\htdocs\ujicoba\protected\views\barang\create.php (18)
+in C:\xampp\htdocs\ujicoba\protected\controllers\BarangController.php (79)
+2013/11/19 07:59:08 [error] [php] Missing argument 3 for CActiveForm::dropDownList(), called in C:\xampp\htdocs\ujicoba\protected\views\barang\_form.php on line 36 and defined (C:\xampp\htdocs\ujicoba\framework\web\widgets\CActiveForm.php:845)
+Stack trace:
+#0 C:\xampp\htdocs\ujicoba\framework\web\CBaseController.php(95): BarangController->renderInternal()
+#1 C:\xampp\htdocs\ujicoba\framework\web\CController.php(869): BarangController->renderFile()
+#2 C:\xampp\htdocs\ujicoba\protected\views\barang\create.php(18): BarangController->renderPartial()
+#3 C:\xampp\htdocs\ujicoba\framework\web\CBaseController.php(126): require()
+#4 C:\xampp\htdocs\ujicoba\framework\web\CBaseController.php(95): BarangController->renderInternal()
+#5 C:\xampp\htdocs\ujicoba\framework\web\CController.php(869): BarangController->renderFile()
+#6 C:\xampp\htdocs\ujicoba\framework\web\CController.php(782): BarangController->renderPartial()
+#7 C:\xampp\htdocs\ujicoba\protected\controllers\BarangController.php(79): BarangController->render()
+#8 C:\xampp\htdocs\ujicoba\framework\web\actions\CInlineAction.php(49): BarangController->actionCreate()
+#9 C:\xampp\htdocs\ujicoba\framework\web\CController.php(308): CInlineAction->runWithParams()
+#10 C:\xampp\htdocs\ujicoba\framework\web\filters\CFilterChain.php(133): BarangController->runAction()
+#11 C:\xampp\htdocs\ujicoba\framework\web\filters\CFilter.php(40): CFilterChain->run()
+#12 C:\xampp\htdocs\ujicoba\framework\web\CController.php(1145): CAccessControlFilter->filter()
+#13 C:\xampp\htdocs\ujicoba\framework\web\filters\CInlineFilter.php(58): BarangController->filterAccessControl()
+#14 C:\xampp\htdocs\ujicoba\framework\web\filters\CFilterChain.php(130): CInlineFilter->filter()
+#15 C:\xampp\htdocs\ujicoba\framework\web\CController.php(291): CFilterChain->run()
+#16 C:\xampp\htdocs\ujicoba\framework\web\CController.php(265): BarangController->runActionWithFilters()
+#17 C:\xampp\htdocs\ujicoba\framework\web\CWebApplication.php(282): BarangController->run()
+#18 C:\xampp\htdocs\ujicoba\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#19 C:\xampp\htdocs\ujicoba\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#20 C:\xampp\htdocs\ujicoba\index.php(13): CWebApplication->run()
+REQUEST_URI=/ujicoba/index.php?r=barang/create
+in C:\xampp\htdocs\ujicoba\protected\views\barang\_form.php (36)
+in C:\xampp\htdocs\ujicoba\protected\views\barang\create.php (18)
+in C:\xampp\htdocs\ujicoba\protected\controllers\BarangController.php (79)
+2013/11/19 08:29:41 [error] [exception.CException] exception 'CException' with message 'Property "Barang.status" is not defined.' in C:\xampp\htdocs\ujicoba\framework\base\CComponent.php:130
+Stack trace:
+#0 C:\xampp\htdocs\ujicoba\framework\db\ar\CActiveRecord.php(145): CComponent->__get('status')
+#1 C:\xampp\htdocs\ujicoba\framework\web\helpers\CHtml.php(2529): CActiveRecord->__get('status')
+#2 C:\xampp\htdocs\ujicoba\framework\web\helpers\CHtml.php(1802): CHtml::resolveValue(Object(Barang), 'status')
+#3 C:\xampp\htdocs\ujicoba\framework\web\widgets\CActiveForm.php(847): CHtml::activeDropDownList(Object(Barang), 'status', Array, Array)
+#4 C:\xampp\htdocs\ujicoba\protected\views\barang\_form.php(46): CActiveForm->dropDownList(Object(Barang), 'status', Array, Array)
+#5 C:\xampp\htdocs\ujicoba\framework\web\CBaseController.php(126): require('C:\xampp\htdocs...')
+#6 C:\xampp\htdocs\ujicoba\framework\web\CBaseController.php(95): CBaseController->renderInternal('C:\xampp\htdocs...', Array, true)
+#7 C:\xampp\htdocs\ujicoba\framework\web\CController.php(869): CBaseController->renderFile('C:\xampp\htdocs...', Array, true)
+#8 C:\xampp\htdocs\ujicoba\protected\views\barang\create.php(18): CController->renderPartial('_form', Array)
+#9 C:\xampp\htdocs\ujicoba\framework\web\CBaseController.php(126): require('C:\xampp\htdocs...')
+#10 C:\xampp\htdocs\ujicoba\framework\web\CBaseController.php(95): CBaseController->renderInternal('C:\xampp\htdocs...', Array, true)
+#11 C:\xampp\htdocs\ujicoba\framework\web\CController.php(869): CBaseController->renderFile('C:\xampp\htdocs...', Array, true)
+#12 C:\xampp\htdocs\ujicoba\framework\web\CController.php(782): CController->renderPartial('create', Array, true)
+#13 C:\xampp\htdocs\ujicoba\protected\controllers\BarangController.php(79): CController->render('create', Array)
+#14 C:\xampp\htdocs\ujicoba\framework\web\actions\CInlineAction.php(49): BarangController->actionCreate()
+#15 C:\xampp\htdocs\ujicoba\framework\web\CController.php(308): CInlineAction->runWithParams(Array)
+#16 C:\xampp\htdocs\ujicoba\framework\web\filters\CFilterChain.php(133): CController->runAction(Object(CInlineAction))
+#17 C:\xampp\htdocs\ujicoba\framework\web\filters\CFilter.php(40): CFilterChain->run()
+#18 C:\xampp\htdocs\ujicoba\framework\web\CController.php(1145): CFilter->filter(Object(CFilterChain))
+#19 C:\xampp\htdocs\ujicoba\framework\web\filters\CInlineFilter.php(58): CController->filterAccessControl(Object(CFilterChain))
+#20 C:\xampp\htdocs\ujicoba\framework\web\filters\CFilterChain.php(130): CInlineFilter->filter(Object(CFilterChain))
+#21 C:\xampp\htdocs\ujicoba\framework\web\CController.php(291): CFilterChain->run()
+#22 C:\xampp\htdocs\ujicoba\framework\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#23 C:\xampp\htdocs\ujicoba\framework\web\CWebApplication.php(282): CController->run('create')
+#24 C:\xampp\htdocs\ujicoba\framework\web\CWebApplication.php(141): CWebApplication->runController('barang/create')
+#25 C:\xampp\htdocs\ujicoba\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#26 C:\xampp\htdocs\ujicoba\index.php(13): CApplication->run()
+#27 {main}
+REQUEST_URI=/ujicoba/index.php?r=barang/create
+HTTP_REFERER=http://localhost/ujicoba/index.php?r=barang/admin
+---
+2013/11/19 08:40:48 [error] [php] Missing argument 3 for CActiveForm::listBox(), called in C:\xampp\htdocs\ujicoba\protected\views\barang\_form.php on line 54 and defined (C:\xampp\htdocs\ujicoba\framework\web\widgets\CActiveForm.php:861)
+Stack trace:
+#0 C:\xampp\htdocs\ujicoba\framework\web\CBaseController.php(95): BarangController->renderInternal()
+#1 C:\xampp\htdocs\ujicoba\framework\web\CController.php(869): BarangController->renderFile()
+#2 C:\xampp\htdocs\ujicoba\protected\views\barang\create.php(18): BarangController->renderPartial()
+#3 C:\xampp\htdocs\ujicoba\framework\web\CBaseController.php(126): require()
+#4 C:\xampp\htdocs\ujicoba\framework\web\CBaseController.php(95): BarangController->renderInternal()
+#5 C:\xampp\htdocs\ujicoba\framework\web\CController.php(869): BarangController->renderFile()
+#6 C:\xampp\htdocs\ujicoba\framework\web\CController.php(782): BarangController->renderPartial()
+#7 C:\xampp\htdocs\ujicoba\protected\controllers\BarangController.php(79): BarangController->render()
+#8 C:\xampp\htdocs\ujicoba\framework\web\actions\CInlineAction.php(49): BarangController->actionCreate()
+#9 C:\xampp\htdocs\ujicoba\framework\web\CController.php(308): CInlineAction->runWithParams()
+#10 C:\xampp\htdocs\ujicoba\framework\web\filters\CFilterChain.php(133): BarangController->runAction()
+#11 C:\xampp\htdocs\ujicoba\framework\web\filters\CFilter.php(40): CFilterChain->run()
+#12 C:\xampp\htdocs\ujicoba\framework\web\CController.php(1145): CAccessControlFilter->filter()
+#13 C:\xampp\htdocs\ujicoba\framework\web\filters\CInlineFilter.php(58): BarangController->filterAccessControl()
+#14 C:\xampp\htdocs\ujicoba\framework\web\filters\CFilterChain.php(130): CInlineFilter->filter()
+#15 C:\xampp\htdocs\ujicoba\framework\web\CController.php(291): CFilterChain->run()
+#16 C:\xampp\htdocs\ujicoba\framework\web\CController.php(265): BarangController->runActionWithFilters()
+#17 C:\xampp\htdocs\ujicoba\framework\web\CWebApplication.php(282): BarangController->run()
+#18 C:\xampp\htdocs\ujicoba\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#19 C:\xampp\htdocs\ujicoba\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#20 C:\xampp\htdocs\ujicoba\index.php(13): CWebApplication->run()
+REQUEST_URI=/ujicoba/index.php?r=barang/create
+in C:\xampp\htdocs\ujicoba\protected\views\barang\_form.php (54)
+in C:\xampp\htdocs\ujicoba\protected\views\barang\create.php (18)
+in C:\xampp\htdocs\ujicoba\protected\controllers\BarangController.php (79)
+2013/11/19 08:42:55 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "controllerBarang/functionBarang".' in C:\xampp\htdocs\ujicoba\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\ujicoba\framework\web\CWebApplication.php(141): CWebApplication->runController('controllerBaran...')
+#1 C:\xampp\htdocs\ujicoba\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\ujicoba\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/ujicoba/index.php?r=controllerBarang/functionBarang
+HTTP_REFERER=http://localhost/ujicoba/index.php?r=barang/create
+---
+2013/11/19 08:49:11 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "controllerBarang/functionWarna".' in C:\xampp\htdocs\ujicoba\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\ujicoba\framework\web\CWebApplication.php(141): CWebApplication->runController('controllerBaran...')
+#1 C:\xampp\htdocs\ujicoba\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\ujicoba\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/ujicoba/index.php?r=controllerBarang/functionWarna
+HTTP_REFERER=http://localhost/ujicoba/index.php?r=barang/create
+---
+2013/11/19 08:49:13 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "controllerBarang/functionLogo".' in C:\xampp\htdocs\ujicoba\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\ujicoba\framework\web\CWebApplication.php(141): CWebApplication->runController('controllerBaran...')
+#1 C:\xampp\htdocs\ujicoba\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\ujicoba\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/ujicoba/index.php?r=controllerBarang/functionLogo
+HTTP_REFERER=http://localhost/ujicoba/index.php?r=barang/create
+---
+2013/11/19 08:49:15 [error] [system.db.CDbCommand] CDbCommand::execute() failed: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '100' for key 'PRIMARY'. The SQL statement executed was: INSERT INTO `barang` (`kodeBarang`, `namaBarang`, `warna`, `logo`, `kondisi`) VALUES (:yp0, :yp1, :yp2, :yp3, :yp4).
+in C:\xampp\htdocs\ujicoba\protected\controllers\BarangController.php (73)
+in C:\xampp\htdocs\ujicoba\index.php (13)
+2013/11/19 08:49:15 [error] [exception.CDbException] exception 'CDbException' with message 'CDbCommand failed to execute the SQL statement: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '100' for key 'PRIMARY'. The SQL statement executed was: INSERT INTO `barang` (`kodeBarang`, `namaBarang`, `warna`, `logo`, `kondisi`) VALUES (:yp0, :yp1, :yp2, :yp3, :yp4)' in C:\xampp\htdocs\ujicoba\framework\db\CDbCommand.php:358
+Stack trace:
+#0 C:\xampp\htdocs\ujicoba\framework\db\ar\CActiveRecord.php(1077): CDbCommand->execute()
+#1 C:\xampp\htdocs\ujicoba\framework\db\ar\CActiveRecord.php(806): CActiveRecord->insert(NULL)
+#2 C:\xampp\htdocs\ujicoba\protected\controllers\BarangController.php(73): CActiveRecord->save()
+#3 C:\xampp\htdocs\ujicoba\framework\web\actions\CInlineAction.php(49): BarangController->actionCreate()
+#4 C:\xampp\htdocs\ujicoba\framework\web\CController.php(308): CInlineAction->runWithParams(Array)
+#5 C:\xampp\htdocs\ujicoba\framework\web\filters\CFilterChain.php(133): CController->runAction(Object(CInlineAction))
+#6 C:\xampp\htdocs\ujicoba\framework\web\filters\CFilter.php(40): CFilterChain->run()
+#7 C:\xampp\htdocs\ujicoba\framework\web\CController.php(1145): CFilter->filter(Object(CFilterChain))
+#8 C:\xampp\htdocs\ujicoba\framework\web\filters\CInlineFilter.php(58): CController->filterAccessControl(Object(CFilterChain))
+#9 C:\xampp\htdocs\ujicoba\framework\web\filters\CFilterChain.php(130): CInlineFilter->filter(Object(CFilterChain))
+#10 C:\xampp\htdocs\ujicoba\framework\web\CController.php(291): CFilterChain->run()
+#11 C:\xampp\htdocs\ujicoba\framework\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#12 C:\xampp\htdocs\ujicoba\framework\web\CWebApplication.php(282): CController->run('create')
+#13 C:\xampp\htdocs\ujicoba\framework\web\CWebApplication.php(141): CWebApplication->runController('barang/create')
+#14 C:\xampp\htdocs\ujicoba\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#15 C:\xampp\htdocs\ujicoba\index.php(13): CApplication->run()
+#16 {main}
+REQUEST_URI=/ujicoba/index.php?r=barang/create
+HTTP_REFERER=http://localhost/ujicoba/index.php?r=barang/create
+---
+2013/11/19 08:52:47 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "controllerBarang/functionLogo".' in C:\xampp\htdocs\ujicoba\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\ujicoba\framework\web\CWebApplication.php(141): CWebApplication->runController('controllerBaran...')
+#1 C:\xampp\htdocs\ujicoba\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\ujicoba\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/ujicoba/index.php?r=controllerBarang/functionLogo
+HTTP_REFERER=http://localhost/ujicoba/index.php?r=barang/create
+---
+2013/11/19 08:53:21 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "controllerBarang/functionWarna".' in C:\xampp\htdocs\ujicoba\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\ujicoba\framework\web\CWebApplication.php(141): CWebApplication->runController('controllerBaran...')
+#1 C:\xampp\htdocs\ujicoba\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\ujicoba\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/ujicoba/index.php?r=controllerBarang/functionWarna
+HTTP_REFERER=http://localhost/ujicoba/index.php?r=barang/create
+---
+2013/11/19 08:53:23 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "controllerBarang/functionLogo".' in C:\xampp\htdocs\ujicoba\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\ujicoba\framework\web\CWebApplication.php(141): CWebApplication->runController('controllerBaran...')
+#1 C:\xampp\htdocs\ujicoba\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\ujicoba\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/ujicoba/index.php?r=controllerBarang/functionLogo
+HTTP_REFERER=http://localhost/ujicoba/index.php?r=barang/create
+---
+2013/11/20 10:34:22 [error] [system.db.CDbCommand] CDbCommand::fetchAll() failed: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'pitelektronik.keluhan,detailservice' doesn't exist. The SQL statement executed was: SHOW FULL COLUMNS FROM `keluhan,detailservice`.
+in C:\xampp\htdocs\ujicoba\protected\controllers\KeluhanController.php (136)
+in C:\xampp\htdocs\ujicoba\index.php (13)
+2013/11/20 10:34:22 [error] [exception.CDbException] exception 'CDbException' with message 'The table "keluhan,detailservice" for active record class "Keluhan" cannot be found in the database.' in C:\xampp\htdocs\ujicoba\framework\db\ar\CActiveRecord.php:2362
+Stack trace:
+#0 C:\xampp\htdocs\ujicoba\framework\db\ar\CActiveRecord.php(411): CActiveRecordMetaData->__construct(Object(Keluhan))
+#1 C:\xampp\htdocs\ujicoba\framework\db\ar\CActiveRecord.php(79): CActiveRecord->getMetaData()
+#2 C:\xampp\htdocs\ujicoba\protected\controllers\KeluhanController.php(136): CActiveRecord->__construct('search')
+#3 C:\xampp\htdocs\ujicoba\framework\web\actions\CInlineAction.php(49): KeluhanController->actionAdmin()
+#4 C:\xampp\htdocs\ujicoba\framework\web\CController.php(308): CInlineAction->runWithParams(Array)
+#5 C:\xampp\htdocs\ujicoba\framework\web\filters\CFilterChain.php(133): CController->runAction(Object(CInlineAction))
+#6 C:\xampp\htdocs\ujicoba\framework\web\filters\CFilter.php(40): CFilterChain->run()
+#7 C:\xampp\htdocs\ujicoba\framework\web\CController.php(1145): CFilter->filter(Object(CFilterChain))
+#8 C:\xampp\htdocs\ujicoba\framework\web\filters\CInlineFilter.php(58): CController->filterAccessControl(Object(CFilterChain))
+#9 C:\xampp\htdocs\ujicoba\framework\web\filters\CFilterChain.php(130): CInlineFilter->filter(Object(CFilterChain))
+#10 C:\xampp\htdocs\ujicoba\framework\web\CController.php(291): CFilterChain->run()
+#11 C:\xampp\htdocs\ujicoba\framework\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#12 C:\xampp\htdocs\ujicoba\framework\web\CWebApplication.php(282): CController->run('admin')
+#13 C:\xampp\htdocs\ujicoba\framework\web\CWebApplication.php(141): CWebApplication->runController('keluhan/admin')
+#14 C:\xampp\htdocs\ujicoba\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#15 C:\xampp\htdocs\ujicoba\index.php(13): CApplication->run()
+#16 {main}
+REQUEST_URI=/ujicoba/index.php?r=keluhan/admin
+HTTP_REFERER=http://localhost/ujicoba/index.php?r=barang/admin
+---
+2013/11/25 09:06:34 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "controllerBarang/functionWarna".' in C:\xampp\htdocs\ujicoba\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\ujicoba\framework\web\CWebApplication.php(141): CWebApplication->runController('controllerBaran...')
+#1 C:\xampp\htdocs\ujicoba\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\ujicoba\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/ujicoba/index.php?r=controllerBarang/functionWarna
+HTTP_REFERER=http://localhost/ujicoba/index.php?r=barang/create
+---
+2013/11/25 09:06:37 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "controllerBarang/functionWarna".' in C:\xampp\htdocs\ujicoba\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\ujicoba\framework\web\CWebApplication.php(141): CWebApplication->runController('controllerBaran...')
+#1 C:\xampp\htdocs\ujicoba\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\ujicoba\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/ujicoba/index.php?r=controllerBarang/functionWarna
+HTTP_REFERER=http://localhost/ujicoba/index.php?r=barang/create
+---
+2013/11/25 09:06:40 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "controllerBarang/functionWarna".' in C:\xampp\htdocs\ujicoba\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\ujicoba\framework\web\CWebApplication.php(141): CWebApplication->runController('controllerBaran...')
+#1 C:\xampp\htdocs\ujicoba\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\ujicoba\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/ujicoba/index.php?r=controllerBarang/functionWarna
+HTTP_REFERER=http://localhost/ujicoba/index.php?r=barang/create
+---
+2013/11/25 09:06:41 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "controllerBarang/functionLogo".' in C:\xampp\htdocs\ujicoba\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\ujicoba\framework\web\CWebApplication.php(141): CWebApplication->runController('controllerBaran...')
+#1 C:\xampp\htdocs\ujicoba\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\ujicoba\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/ujicoba/index.php?r=controllerBarang/functionLogo
+HTTP_REFERER=http://localhost/ujicoba/index.php?r=barang/create
+---
+2013/11/27 11:04:13 [error] [system.db.CDbCommand] CDbCommand::execute() failed: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`pitelektronik`.`detailservice`, CONSTRAINT `detailservice_ibfk_1` FOREIGN KEY (`idDetail`) REFERENCES `keluhan` (`idLapor`) ON UPDATE NO ACTION). The SQL statement executed was: INSERT INTO `keluhan` (`kodeBarang`, `lokasiBarang`, `berita`, `tglLapor`) VALUES (:yp0, :yp1, :yp2, :yp3).
+in C:\xampp\htdocs\ujicoba\protected\controllers\KeluhanController.php (73)
+in C:\xampp\htdocs\ujicoba\index.php (13)
+2013/11/27 11:04:14 [error] [exception.CDbException] exception 'CDbException' with message 'CDbCommand failed to execute the SQL statement: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`pitelektronik`.`detailservice`, CONSTRAINT `detailservice_ibfk_1` FOREIGN KEY (`idDetail`) REFERENCES `keluhan` (`idLapor`) ON UPDATE NO ACTION). The SQL statement executed was: INSERT INTO `keluhan` (`kodeBarang`, `lokasiBarang`, `berita`, `tglLapor`) VALUES (:yp0, :yp1, :yp2, :yp3)' in C:\xampp\htdocs\ujicoba\framework\db\CDbCommand.php:358
+Stack trace:
+#0 C:\xampp\htdocs\ujicoba\framework\db\ar\CActiveRecord.php(1077): CDbCommand->execute()
+#1 C:\xampp\htdocs\ujicoba\framework\db\ar\CActiveRecord.php(806): CActiveRecord->insert(NULL)
+#2 C:\xampp\htdocs\ujicoba\protected\controllers\KeluhanController.php(73): CActiveRecord->save()
+#3 C:\xampp\htdocs\ujicoba\framework\web\actions\CInlineAction.php(49): KeluhanController->actionCreate()
+#4 C:\xampp\htdocs\ujicoba\framework\web\CController.php(308): CInlineAction->runWithParams(Array)
+#5 C:\xampp\htdocs\ujicoba\framework\web\filters\CFilterChain.php(133): CController->runAction(Object(CInlineAction))
+#6 C:\xampp\htdocs\ujicoba\framework\web\filters\CFilter.php(40): CFilterChain->run()
+#7 C:\xampp\htdocs\ujicoba\framework\web\CController.php(1145): CFilter->filter(Object(CFilterChain))
+#8 C:\xampp\htdocs\ujicoba\framework\web\filters\CInlineFilter.php(58): CController->filterAccessControl(Object(CFilterChain))
+#9 C:\xampp\htdocs\ujicoba\framework\web\filters\CFilterChain.php(130): CInlineFilter->filter(Object(CFilterChain))
+#10 C:\xampp\htdocs\ujicoba\framework\web\CController.php(291): CFilterChain->run()
+#11 C:\xampp\htdocs\ujicoba\framework\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#12 C:\xampp\htdocs\ujicoba\framework\web\CWebApplication.php(282): CController->run('create')
+#13 C:\xampp\htdocs\ujicoba\framework\web\CWebApplication.php(141): CWebApplication->runController('keluhan/create')
+#14 C:\xampp\htdocs\ujicoba\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#15 C:\xampp\htdocs\ujicoba\index.php(13): CApplication->run()
+#16 {main}
+REQUEST_URI=/ujicoba/index.php?r=keluhan/create
+HTTP_REFERER=http://localhost/ujicoba/index.php?r=keluhan/create
+---
+2013/11/27 11:08:07 [error] [system.db.CDbCommand] CDbCommand::execute() failed: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '0' for key 'PRIMARY'. The SQL statement executed was: INSERT INTO `keluhan` (`kodeBarang`, `lokasiBarang`, `berita`, `tglLapor`) VALUES (:yp0, :yp1, :yp2, :yp3).
+in C:\xampp\htdocs\ujicoba\protected\controllers\KeluhanController.php (73)
+in C:\xampp\htdocs\ujicoba\index.php (13)
+2013/11/27 11:08:07 [error] [exception.CDbException] exception 'CDbException' with message 'CDbCommand failed to execute the SQL statement: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '0' for key 'PRIMARY'. The SQL statement executed was: INSERT INTO `keluhan` (`kodeBarang`, `lokasiBarang`, `berita`, `tglLapor`) VALUES (:yp0, :yp1, :yp2, :yp3)' in C:\xampp\htdocs\ujicoba\framework\db\CDbCommand.php:358
+Stack trace:
+#0 C:\xampp\htdocs\ujicoba\framework\db\ar\CActiveRecord.php(1077): CDbCommand->execute()
+#1 C:\xampp\htdocs\ujicoba\framework\db\ar\CActiveRecord.php(806): CActiveRecord->insert(NULL)
+#2 C:\xampp\htdocs\ujicoba\protected\controllers\KeluhanController.php(73): CActiveRecord->save()
+#3 C:\xampp\htdocs\ujicoba\framework\web\actions\CInlineAction.php(49): KeluhanController->actionCreate()
+#4 C:\xampp\htdocs\ujicoba\framework\web\CController.php(308): CInlineAction->runWithParams(Array)
+#5 C:\xampp\htdocs\ujicoba\framework\web\filters\CFilterChain.php(133): CController->runAction(Object(CInlineAction))
+#6 C:\xampp\htdocs\ujicoba\framework\web\filters\CFilter.php(40): CFilterChain->run()
+#7 C:\xampp\htdocs\ujicoba\framework\web\CController.php(1145): CFilter->filter(Object(CFilterChain))
+#8 C:\xampp\htdocs\ujicoba\framework\web\filters\CInlineFilter.php(58): CController->filterAccessControl(Object(CFilterChain))
+#9 C:\xampp\htdocs\ujicoba\framework\web\filters\CFilterChain.php(130): CInlineFilter->filter(Object(CFilterChain))
+#10 C:\xampp\htdocs\ujicoba\framework\web\CController.php(291): CFilterChain->run()
+#11 C:\xampp\htdocs\ujicoba\framework\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#12 C:\xampp\htdocs\ujicoba\framework\web\CWebApplication.php(282): CController->run('create')
+#13 C:\xampp\htdocs\ujicoba\framework\web\CWebApplication.php(141): CWebApplication->runController('keluhan/create')
+#14 C:\xampp\htdocs\ujicoba\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#15 C:\xampp\htdocs\ujicoba\index.php(13): CApplication->run()
+#16 {main}
+REQUEST_URI=/ujicoba/index.php?r=keluhan/create
+HTTP_REFERER=http://localhost/ujicoba/index.php?r=keluhan/create
+---
+2013/11/27 11:09:15 [error] [system.db.CDbCommand] CDbCommand::execute() failed: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '0' for key 'PRIMARY'. The SQL statement executed was: INSERT INTO `keluhan` (`kodeBarang`, `lokasiBarang`, `berita`, `tglLapor`) VALUES (:yp0, :yp1, :yp2, :yp3).
+in C:\xampp\htdocs\ujicoba\protected\controllers\KeluhanController.php (73)
+in C:\xampp\htdocs\ujicoba\index.php (13)
+2013/11/27 11:09:15 [error] [exception.CDbException] exception 'CDbException' with message 'CDbCommand failed to execute the SQL statement: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '0' for key 'PRIMARY'. The SQL statement executed was: INSERT INTO `keluhan` (`kodeBarang`, `lokasiBarang`, `berita`, `tglLapor`) VALUES (:yp0, :yp1, :yp2, :yp3)' in C:\xampp\htdocs\ujicoba\framework\db\CDbCommand.php:358
+Stack trace:
+#0 C:\xampp\htdocs\ujicoba\framework\db\ar\CActiveRecord.php(1077): CDbCommand->execute()
+#1 C:\xampp\htdocs\ujicoba\framework\db\ar\CActiveRecord.php(806): CActiveRecord->insert(NULL)
+#2 C:\xampp\htdocs\ujicoba\protected\controllers\KeluhanController.php(73): CActiveRecord->save()
+#3 C:\xampp\htdocs\ujicoba\framework\web\actions\CInlineAction.php(49): KeluhanController->actionCreate()
+#4 C:\xampp\htdocs\ujicoba\framework\web\CController.php(308): CInlineAction->runWithParams(Array)
+#5 C:\xampp\htdocs\ujicoba\framework\web\filters\CFilterChain.php(133): CController->runAction(Object(CInlineAction))
+#6 C:\xampp\htdocs\ujicoba\framework\web\filters\CFilter.php(40): CFilterChain->run()
+#7 C:\xampp\htdocs\ujicoba\framework\web\CController.php(1145): CFilter->filter(Object(CFilterChain))
+#8 C:\xampp\htdocs\ujicoba\framework\web\filters\CInlineFilter.php(58): CController->filterAccessControl(Object(CFilterChain))
+#9 C:\xampp\htdocs\ujicoba\framework\web\filters\CFilterChain.php(130): CInlineFilter->filter(Object(CFilterChain))
+#10 C:\xampp\htdocs\ujicoba\framework\web\CController.php(291): CFilterChain->run()
+#11 C:\xampp\htdocs\ujicoba\framework\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#12 C:\xampp\htdocs\ujicoba\framework\web\CWebApplication.php(282): CController->run('create')
+#13 C:\xampp\htdocs\ujicoba\framework\web\CWebApplication.php(141): CWebApplication->runController('keluhan/create')
+#14 C:\xampp\htdocs\ujicoba\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#15 C:\xampp\htdocs\ujicoba\index.php(13): CApplication->run()
+#16 {main}
+REQUEST_URI=/ujicoba/index.php?r=keluhan/create
+HTTP_REFERER=http://localhost/ujicoba/index.php?r=keluhan/create
+---
+2013/11/27 11:10:21 [error] [system.db.CDbCommand] CDbCommand::execute() failed: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '0' for key 'PRIMARY'. The SQL statement executed was: INSERT INTO `keluhan` (`kodeBarang`, `lokasiBarang`, `berita`, `tglLapor`) VALUES (:yp0, :yp1, :yp2, :yp3).
+in C:\xampp\htdocs\ujicoba\protected\controllers\KeluhanController.php (73)
+in C:\xampp\htdocs\ujicoba\index.php (13)
+2013/11/27 11:10:21 [error] [exception.CDbException] exception 'CDbException' with message 'CDbCommand failed to execute the SQL statement: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '0' for key 'PRIMARY'. The SQL statement executed was: INSERT INTO `keluhan` (`kodeBarang`, `lokasiBarang`, `berita`, `tglLapor`) VALUES (:yp0, :yp1, :yp2, :yp3)' in C:\xampp\htdocs\ujicoba\framework\db\CDbCommand.php:358
+Stack trace:
+#0 C:\xampp\htdocs\ujicoba\framework\db\ar\CActiveRecord.php(1077): CDbCommand->execute()
+#1 C:\xampp\htdocs\ujicoba\framework\db\ar\CActiveRecord.php(806): CActiveRecord->insert(NULL)
+#2 C:\xampp\htdocs\ujicoba\protected\controllers\KeluhanController.php(73): CActiveRecord->save()
+#3 C:\xampp\htdocs\ujicoba\framework\web\actions\CInlineAction.php(49): KeluhanController->actionCreate()
+#4 C:\xampp\htdocs\ujicoba\framework\web\CController.php(308): CInlineAction->runWithParams(Array)
+#5 C:\xampp\htdocs\ujicoba\framework\web\filters\CFilterChain.php(133): CController->runAction(Object(CInlineAction))
+#6 C:\xampp\htdocs\ujicoba\framework\web\filters\CFilter.php(40): CFilterChain->run()
+#7 C:\xampp\htdocs\ujicoba\framework\web\CController.php(1145): CFilter->filter(Object(CFilterChain))
+#8 C:\xampp\htdocs\ujicoba\framework\web\filters\CInlineFilter.php(58): CController->filterAccessControl(Object(CFilterChain))
+#9 C:\xampp\htdocs\ujicoba\framework\web\filters\CFilterChain.php(130): CInlineFilter->filter(Object(CFilterChain))
+#10 C:\xampp\htdocs\ujicoba\framework\web\CController.php(291): CFilterChain->run()
+#11 C:\xampp\htdocs\ujicoba\framework\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#12 C:\xampp\htdocs\ujicoba\framework\web\CWebApplication.php(282): CController->run('create')
+#13 C:\xampp\htdocs\ujicoba\framework\web\CWebApplication.php(141): CWebApplication->runController('keluhan/create')
+#14 C:\xampp\htdocs\ujicoba\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#15 C:\xampp\htdocs\ujicoba\index.php(13): CApplication->run()
+#16 {main}
+REQUEST_URI=/ujicoba/index.php?r=keluhan/create
+HTTP_REFERER=http://localhost/ujicoba/index.php?r=keluhan/create
+---
+2013/11/27 11:26:32 [error] [system.db.CDbCommand] CDbCommand::execute() failed: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '0' for key 'PRIMARY'. The SQL statement executed was: INSERT INTO `keluhan` (`kodeBarang`, `lokasiBarang`, `berita`, `tglLapor`) VALUES (:yp0, :yp1, :yp2, :yp3).
+in C:\xampp\htdocs\ujicoba\protected\controllers\KeluhanController.php (73)
+in C:\xampp\htdocs\ujicoba\index.php (13)
+2013/11/27 11:26:32 [error] [exception.CDbException] exception 'CDbException' with message 'CDbCommand failed to execute the SQL statement: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '0' for key 'PRIMARY'. The SQL statement executed was: INSERT INTO `keluhan` (`kodeBarang`, `lokasiBarang`, `berita`, `tglLapor`) VALUES (:yp0, :yp1, :yp2, :yp3)' in C:\xampp\htdocs\ujicoba\framework\db\CDbCommand.php:358
+Stack trace:
+#0 C:\xampp\htdocs\ujicoba\framework\db\ar\CActiveRecord.php(1077): CDbCommand->execute()
+#1 C:\xampp\htdocs\ujicoba\framework\db\ar\CActiveRecord.php(806): CActiveRecord->insert(NULL)
+#2 C:\xampp\htdocs\ujicoba\protected\controllers\KeluhanController.php(73): CActiveRecord->save()
+#3 C:\xampp\htdocs\ujicoba\framework\web\actions\CInlineAction.php(49): KeluhanController->actionCreate()
+#4 C:\xampp\htdocs\ujicoba\framework\web\CController.php(308): CInlineAction->runWithParams(Array)
+#5 C:\xampp\htdocs\ujicoba\framework\web\filters\CFilterChain.php(133): CController->runAction(Object(CInlineAction))
+#6 C:\xampp\htdocs\ujicoba\framework\web\filters\CFilter.php(40): CFilterChain->run()
+#7 C:\xampp\htdocs\ujicoba\framework\web\CController.php(1145): CFilter->filter(Object(CFilterChain))
+#8 C:\xampp\htdocs\ujicoba\framework\web\filters\CInlineFilter.php(58): CController->filterAccessControl(Object(CFilterChain))
+#9 C:\xampp\htdocs\ujicoba\framework\web\filters\CFilterChain.php(130): CInlineFilter->filter(Object(CFilterChain))
+#10 C:\xampp\htdocs\ujicoba\framework\web\CController.php(291): CFilterChain->run()
+#11 C:\xampp\htdocs\ujicoba\framework\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#12 C:\xampp\htdocs\ujicoba\framework\web\CWebApplication.php(282): CController->run('create')
+#13 C:\xampp\htdocs\ujicoba\framework\web\CWebApplication.php(141): CWebApplication->runController('keluhan/create')
+#14 C:\xampp\htdocs\ujicoba\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#15 C:\xampp\htdocs\ujicoba\index.php(13): CApplication->run()
+#16 {main}
+REQUEST_URI=/ujicoba/index.php?r=keluhan/create
+HTTP_REFERER=http://localhost/ujicoba/index.php?r=keluhan/create
+---
+2013/11/28 08:38:06 [error] [exception.CException] exception 'CException' with message 'Property "detailservice.kodeBarang" is not defined.' in C:\xampp\htdocs\ujicoba\framework\base\CComponent.php:130
+Stack trace:
+#0 C:\xampp\htdocs\ujicoba\framework\db\ar\CActiveRecord.php(145): CComponent->__get('kodeBarang')
+#1 C:\xampp\htdocs\ujicoba\framework\web\helpers\CHtml.php(2529): CActiveRecord->__get('kodeBarang')
+#2 C:\xampp\htdocs\ujicoba\framework\web\helpers\CHtml.php(2252): CHtml::resolveValue(Object(detailservice), 'kodeBarang')
+#3 C:\xampp\htdocs\ujicoba\framework\web\helpers\CHtml.php(1434): CHtml::activeInputField('text', Object(detailservice), 'kodeBarang', Array)
+#4 C:\xampp\htdocs\ujicoba\framework\web\widgets\CActiveForm.php(725): CHtml::activeTextField(Object(detailservice), 'kodeBarang', Array)
+#5 C:\xampp\htdocs\ujicoba\protected\views\keluhan\_form.php(24): CActiveForm->textField(Object(detailservice), 'kodeBarang')
+#6 C:\xampp\htdocs\ujicoba\framework\web\CBaseController.php(126): require('C:\xampp\htdocs...')
+#7 C:\xampp\htdocs\ujicoba\framework\web\CBaseController.php(95): CBaseController->renderInternal('C:\xampp\htdocs...', Array, true)
+#8 C:\xampp\htdocs\ujicoba\framework\web\CController.php(869): CBaseController->renderFile('C:\xampp\htdocs...', Array, true)
+#9 C:\xampp\htdocs\ujicoba\protected\views\keluhan\create.php(18): CController->renderPartial('_form', Array)
+#10 C:\xampp\htdocs\ujicoba\framework\web\CBaseController.php(126): require('C:\xampp\htdocs...')
+#11 C:\xampp\htdocs\ujicoba\framework\web\CBaseController.php(95): CBaseController->renderInternal('C:\xampp\htdocs...', Array, true)
+#12 C:\xampp\htdocs\ujicoba\framework\web\CController.php(869): CBaseController->renderFile('C:\xampp\htdocs...', Array, true)
+#13 C:\xampp\htdocs\ujicoba\framework\web\CController.php(782): CController->renderPartial('create', Array, true)
+#14 C:\xampp\htdocs\ujicoba\protected\controllers\KeluhanController.php(93): CController->render('create', Array)
+#15 C:\xampp\htdocs\ujicoba\framework\web\actions\CInlineAction.php(49): KeluhanController->actionCreate()
+#16 C:\xampp\htdocs\ujicoba\framework\web\CController.php(308): CInlineAction->runWithParams(Array)
+#17 C:\xampp\htdocs\ujicoba\framework\web\filters\CFilterChain.php(133): CController->runAction(Object(CInlineAction))
+#18 C:\xampp\htdocs\ujicoba\framework\web\filters\CFilter.php(40): CFilterChain->run()
+#19 C:\xampp\htdocs\ujicoba\framework\web\CController.php(1145): CFilter->filter(Object(CFilterChain))
+#20 C:\xampp\htdocs\ujicoba\framework\web\filters\CInlineFilter.php(58): CController->filterAccessControl(Object(CFilterChain))
+#21 C:\xampp\htdocs\ujicoba\framework\web\filters\CFilterChain.php(130): CInlineFilter->filter(Object(CFilterChain))
+#22 C:\xampp\htdocs\ujicoba\framework\web\CController.php(291): CFilterChain->run()
+#23 C:\xampp\htdocs\ujicoba\framework\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#24 C:\xampp\htdocs\ujicoba\framework\web\CWebApplication.php(282): CController->run('create')
+#25 C:\xampp\htdocs\ujicoba\framework\web\CWebApplication.php(141): CWebApplication->runController('keluhan/create')
+#26 C:\xampp\htdocs\ujicoba\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#27 C:\xampp\htdocs\ujicoba\index.php(13): CApplication->run()
+#28 {main}
+REQUEST_URI=/ujicoba/index.php?r=keluhan/create
+HTTP_REFERER=http://localhost/ujicoba/index.php?r=keluhan/admin
+---
