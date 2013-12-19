@@ -68,22 +68,35 @@ class KeluhanController extends Controller
         // Uncomment the following line if AJAX validation is needed
         // $this->performAjaxValidation($model);
 
-        if(isset($_POST['Keluhan']))
-        {
-            $model->attributes=$_POST['Keluhan'];
-            $model2->atrributes=$_POST['detailService'];
-            
-            $valid=$model->validate();
-            $valid=$model2->validate() && $valid;
-            
-            if($valid) {
-                if($model->save(false))
-                {
-                    $model2->idLapor = $model->idLapor;
-                    $model2->save(false);
-                    $this->redirect(array('view','id'=>$model->idLapor));
+        $transaction = $model->dbConnection->beginTransaction();
+        
+        try {
+
+            if(isset($_POST['Keluhan']))
+            {
+                $model->attributes=$_POST['Keluhan'];
+                $model2->atrributes=$_POST['detailService'];
+                
+                $valid=$model->validate();
+                $valid=$model2->validate() && $valid;
+                
+                if($valid) {
+                    if($model->save())
+                    {
+                        $model2->idLapor = $model->idLapor;
+                        $model2->save();
+                        $this->redirect(array('view','id'=>$model->idLapor));
+                    } else {
+                        throw new CHttpException(500, CHtml::errorSummary($model));
+                    }
                 }
-            }
+            }    
+
+            $transaction->commit();
+        } catch (Exception $e) {
+            # Just for debug
+            die(var_dump($e->getMessage()));
+            $transaction->rollBack();
         }
 
         $this->render('create',array(
